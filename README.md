@@ -32,14 +32,6 @@
 
 ---
 
-## 💻 Most Used Languages (Real-time)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ram-from-tvl&theme=gruvbox_light&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</div>
-
----
-
 ## 📫 Connect with me
 
 <div align="center">
@@ -72,11 +64,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ram-from-tvl&theme=gruvbox_light&utcOffset=5.5" alt="Productive Time" />
 </div>
 
----
-
 <!--
 **Note to future you:**
-1. All widgets use `ram-from-tvl` and consistent theme (`gruvbox_light`).
-2. Replace or remove WakaTime if not configured.
-3. Add a Featured Projects section below if needed.
+1. All widgets use `ram-from-tvl` and a soft theme (`gruvbox_light`)
+2. You can later re-add WakaTime once it’s configured
+3. Add Featured Projects section if needed
 -->
