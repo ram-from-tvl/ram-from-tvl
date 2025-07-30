@@ -1,6 +1,6 @@
 # Hi, I’m Ram 👋
 
-🎓 Final‑year CSE @ KPR Institute of Engineering and Technology, Coimbatore  
+🎓 Final‑year CSE @ KPR Institute of Engineering and Technology, Coimbatore, Tamilnadu, India.
 💼 ML Intern @ [GoML](https://www.goml.io)  
 
 🔍 Interests: Generative AI, satellite imagery, computer vision, machine learning, Python  
