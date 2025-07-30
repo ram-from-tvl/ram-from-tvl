@@ -24,14 +24,6 @@
 
 ---
 
-## 📈 Contribution Graph (Multi-Year)
-
-<div align="center">
-  <img src="https://github-contributions-api.deno.dev/ram-from-tvl.svg" alt="Ram's GitHub Contribution Graph" />
-</div>
-
----
-
 ## 📫 Connect with me
 
 <div align="center">
@@ -48,21 +40,7 @@
 
 ---
 
-## 📊 Repository Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ram-from-tvl&theme=gruvbox_light" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ram-from-tvl&theme=gruvbox_light" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ram-from-tvl&theme=gruvbox_light" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ram-from-tvl&theme=gruvbox_light" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ram-from-tvl&theme=gruvbox_light&utcOffset=5.5" alt="Productive Time" />
-</div>
 
 
 <!--
