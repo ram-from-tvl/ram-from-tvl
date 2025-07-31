@@ -5,7 +5,6 @@
 </div>
 
 🎓 Final‑year CSE @ KPR Institute of Engineering and Technology, Coimbatore, Tamil Nadu, India  
-💼 ML Intern @ [GoML](https://www.goml.io)  
 
 🔍 Interests: Generative AI, satellite imagery, computer vision, machine learning, Python  
 📫 How to reach me: [ramfromtvl@gmail.com](mailto:ramfromtvl@gmail.com)
@@ -27,14 +26,8 @@
 ## 📫 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ram-from-tvl">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:ramfromtvl@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ram-from-tvl">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
