@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ram-from-tvl&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" alt="GitHub Stats" />
