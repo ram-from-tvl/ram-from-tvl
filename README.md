@@ -9,20 +9,6 @@
 🔍 Interests: Generative AI, satellite imagery, computer vision, machine learning, Python  
 📫 How to reach me: [ramfromtvl@gmail.com](mailto:ramfromtvl@gmail.com)
 
----
-
-## GitHub Stats:
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ram-from-tvl&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-from-tvl&layout=compact&theme=gruvbox_light&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect with me
 
 <div align="center">
@@ -32,13 +18,3 @@
 </div>
 
 ---
-
-
-
-
-<!--
-**Note to future you:**
-1. All widgets use `ram-from-tvl` and a soft theme (`gruvbox_light`)
-2. You can later re-add WakaTime once it’s configured
-3. Add Featured Projects section if needed
--->
